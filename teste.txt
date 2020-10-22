@@ -5,3 +5,5 @@ aula de git v2
 Aula de Git versão 3
 
 aula de git repo remoto no github.com dia 21/10/2020 as 15:55
+
+aula de git repo remoto no git dia 22/10 as 11:00
